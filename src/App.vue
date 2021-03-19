@@ -103,7 +103,7 @@ export default {
             //ulozene data do pola
             todoList: [
                 {
-                    name: "Do homework",
+                    name: "Some task",
                     id: 1,
                     editing: false,
                     isCompleted: false,
